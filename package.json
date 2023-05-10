@@ -1,0 +1,17 @@
+{
+  "name": "linaria",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@babel/core": "^7.21.8",
+    "@linaria/babel-preset": "^4.4.5",
+    "@linaria/core": "^4.2.10",
+    "@linaria/vite": "^4.2.11",
+    "vite": "^4.3.5"
+  }
+}
